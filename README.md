@@ -1,2 +1,2 @@
-# Rails
-A calculator based on RoR
+# React on rails
+A pilot study to use react on Rails.
