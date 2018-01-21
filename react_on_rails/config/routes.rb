@@ -1,4 +1,6 @@
 ReactOnRails::Application.routes.draw do
+  get 'hello_world', to: 'hello_world#index'
+
   get "cart/index"
 
   # The priority is based upon order of creation:
